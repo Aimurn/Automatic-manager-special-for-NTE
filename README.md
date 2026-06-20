@@ -46,7 +46,7 @@
 ## 📥 下载
 
 * [百度网盘](https://pan.baidu.com/s/1jZbjMF0hzBlH3Ivsb1Ntew?pwd=6smx)
-* [GitHub](https://github.com/Aimurn/-Automatic-manager-special-for-NTE/releases) 
+* [GitHub Releases](https://github.com/Aimurn/-Automatic-manager-special-for-NTE/releases) 
 
 ---
 
